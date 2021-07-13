@@ -8,3 +8,4 @@
 5. Deadshot
 5. Harley Queen
 6. Bane
+7. Hiedra Venenosa
