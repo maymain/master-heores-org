@@ -7,3 +7,4 @@
 4. Doomsday
 5. Deadshot
 5. Harley Queen
+6. Hiedra Venenosa

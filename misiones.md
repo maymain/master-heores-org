@@ -6,4 +6,5 @@
 5. Investigar los trabajos del Joker
 6. Tratar de investigar que trama el Flash Reverso
 7. Investigar planes de Harley Queen
-8. prueba rama local
+8. Prueba rama local
+9. Gordon llama a Batman con la batiseñal
